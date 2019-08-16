@@ -1,34 +1,44 @@
 {
   "streams": [
     {
-      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
-      "a.dispatch.apply(a,arguments)}": "",
-      "id": 1
-    },
-    {
-      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
-      "a.dispatch.apply(a,arguments)}": "",
-      "id": 2
-    },
-    {
-      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
-      "a.dispatch.apply(a,arguments)}": "",
-      "id": 3
-    },
-    {
       "title": "My Stream",
       "description": "This is a great stream",
       "id": 4
     },
     {
-      "title": "My Stream",
-      "description": "This is a great stream",
-      "id": 5
-    },
-    {
       "title": "My new favorite Stream",
       "description": "This is a great stream",
       "id": 6
+    },
+    {
+      "title": "hey",
+      "description": "heye",
+      "userId": null,
+      "id": 7
+    },
+    {
+      "title": "hey",
+      "description": "heye",
+      "userId": null,
+      "id": 8
+    },
+    {
+      "title": "hey",
+      "description": "heye",
+      "userId": null,
+      "id": 9
+    },
+    {
+      "title": "hey",
+      "description": "heye",
+      "userId": null,
+      "id": 10
+    },
+    {
+      "title": "hey ",
+      "description": "whats up",
+      "userId": "107412466806279785950",
+      "id": 11
     }
   ]
 }
